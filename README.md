@@ -3,6 +3,7 @@ A comprehensive collection of Verilog HDL solutions for the digital design chall
 ## 🚀 Progress Tracker
 ## HDLBits
 ![Alt text](HDLBits.jpg)
+URL- https://hdlbits.01xz.net/wiki/Main_Page
 
 | Category | Status | Completion % | Problems Sloved |
 | :--- | :---: | :---: | :---: |
